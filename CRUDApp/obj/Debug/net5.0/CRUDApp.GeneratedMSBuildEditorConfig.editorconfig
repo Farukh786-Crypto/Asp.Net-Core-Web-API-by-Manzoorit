@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CRUDApp
+build_property.ProjectDir = F:\[IMP]Full Stack ASP.Net Core Web Developer With Angular 9 Coding Bootcamp-[IMP]\4.Asp.Net Core Web API\Source Code by me\CRUDApp\CRUDApp\
